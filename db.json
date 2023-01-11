@@ -1,0 +1,81 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "nome": "Avatar 2: O Caminho da Água",
+        "diretor": "James Cameron",
+        "gêneros": "Ficção científica, Ação, Drama, Aventura"
+      },
+      {
+        "id:": 2,
+        "nome": "Gato de Botas 2: O Último Pedido",
+        "diretor": "Joel Crawford",
+        "gêneros": "Comédia, Aventura, Fantasia, Animação"
+      },
+      {
+        "id": 3,
+        "nome": "Pantera Negra: Wakanda Para Sempre",
+        "diretor": "Ryan Coogler",
+        "gêneros": "Ação, Drama, Aventura, Ficção científica"
+      },
+      {
+        "id": 4,
+        "nome": "M3GAN",
+        "diretor": "Gerard Johnstone",
+        "gêneros": "Suspense, Terror, Horror, Ficção científica"
+      }
+    ],
+    "breve": [
+      {
+        "id": 1,
+        "nome": "Babilônia",
+        "diretor": "Damien Chazelle",
+        "gêneros": "Drama, Histórico, Comédia Romântica"
+      },
+      {
+        "id": 2,
+        "nome": "Chef Jack - O Cozinheiro Aventureiro",
+        "diretor": "Guilherme Fiuza Zenha ",
+        "gêneros": "Animação, Aventura, Comédia"
+      },
+      {
+        "id": 3,
+        "nome": "A Profecia do Mal",
+        "diretor": "Nathan Frankowski",
+        "gêneros": "Suspense, Terror, Horror, Fantasia"
+      },
+      {
+        "id": 4,
+        "nome": "Batem à Porta",
+        "diretor": "M. Night Shyamalan",
+        "gêneros": "Terror, Mistério, Suspense"
+      }
+    ],
+    "salas": [
+      {
+        "id": 1,
+        "sala": "1",
+        "assentos": "200"
+      },
+      {
+        "id": 2,
+        "sala": "2",
+        "assentos": "300"
+      },
+      {
+        "id": 3,
+        "sala": "3",
+        "assentos": "200"
+      },
+      {
+        "id": 4,
+        "sala": "4",
+        "assentos": "420"
+      },
+      {
+        "id": 5,
+        "sala": "5",
+        "assentos": "300"
+      }
+    ]
+  }
